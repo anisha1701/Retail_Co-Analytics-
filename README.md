@@ -51,7 +51,8 @@ The analysis is structured into the following key sections, addressing specific 
 ---
 Dasboard Preview 
 
-<img width="2133" height="1154" alt="Screenshot 2025-12-04 115841" src="https://github.com/user-attachments/assets/e60a5a66-960e-4f24-9bbb-b2115d4c9e6a" />
+<img width="1118" height="638" alt="image" src="https://github.com/user-attachments/assets/0cd77171-bd28-489b-9b88-b056d2a3a2ad" />
+
 
 ---
 
