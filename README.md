@@ -49,9 +49,7 @@ The analysis is structured into the following key sections, addressing specific 
 | **Inventory** | [cite_start]Implement advanced demand forecasting models and reduce slow-moving SKUs (SKU rationalization) to optimize stock levels and cash flow[cite: 290, 350]. |
 
 ---
-Dasboard Preview 
 
-<img width="1118" height="638" alt="image" src="https://github.com/user-attachments/assets/0cd77171-bd28-489b-9b88-b056d2a3a2ad" />
 
 
 ---
